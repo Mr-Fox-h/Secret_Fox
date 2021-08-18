@@ -1,6 +1,6 @@
 # Secret Fox
 
-![](./Fox.png)
+![Secret Fox](./Fox.png)
 
 The **Secret Fox** is a tool for make a random password and I made it with **Python Language**.
 
